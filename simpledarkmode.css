@@ -1,59 +1,57 @@
-@media all and (-webkit-min-device-pixel-ratio: 2){
-    body {
-      background-color: #121212
-    }
-  
-    .bp3-button .bp3-icon {
-      color: #899EAF
-    }
-    
-    .rm-reference-item,
-    .rm-embed-container {
-      background-color: #1F2123
-    }
-  
-    .rm-bq {
-      background-color: #1F2123;
-      border-left-color: white 
-    }
-  
-    .rm-bullet.rm-bullet--closed .rm-bullet__inner {
-      border: 4px solid #313b40;
-    }
-    
-    .cm-content, .cm-gutter, 
-    .rm-code-block__settings-bar,
-    .bp3-input {
-      background-color: #1F2123;
-      color: white
-    }
-    
-    .cm-focused .cm-activeLine {
-      background-color:  #51565B !important
-    }
-    
-    .roam-body .roam-app, 
-    .bp3-button-text,
-    .roam-body .roam-app h1
-    {
-      color: white
-    }
-    
-    .rm-page-ref--link,
-    .rm-page__title,
-    a{
-      color: #67ABE8
-    }
-  
-    .rm-highlight{
-      color: black;
-      background-color: #bea925
-    }
-  
-    
-  
-    .rm-zoom.zoom-path-view .rm-zoom-mask {
-      color: white;
-      background-color: black
-    }
-  }  
+body {
+    background-color: #121212
+}
+
+.bp3-button .bp3-icon {
+    color: #899EAF
+}
+
+.rm-reference-item,
+.rm-embed-container {
+    background-color: #1F2123
+}
+
+.rm-bq {
+    background-color: #1F2123;
+    border-left-color: white 
+}
+
+.rm-bullet.rm-bullet--closed .rm-bullet__inner {
+    border: 4px solid #313b40;
+}
+
+.cm-content, .cm-gutter, 
+.rm-code-block__settings-bar,
+.bp3-input {
+    background-color: #1F2123;
+    color: white
+}
+
+.cm-focused .cm-activeLine {
+    background-color:  #51565B !important
+}
+
+.roam-body .roam-app, 
+.bp3-button-text,
+.roam-body .roam-app h1
+{
+    color: white
+}
+
+.rm-page-ref--link,
+.rm-page__title,
+a{
+    color: #67ABE8
+}
+
+.rm-highlight{
+    color: black;
+    background-color: #bea925
+}
+
+
+
+.rm-zoom.zoom-path-view .rm-zoom-mask {
+    color: white;
+    background-color: black
+}
