@@ -24,9 +24,10 @@
     .cm-content, .cm-gutter, 
     .rm-code-block__settings-bar,
     .bp3-input,
-    .rm-autocomplete__results {
+    .rm-autocomplete__results,
+    .rm-find-or-create__menu {
         background-color: #1F2123;
-        color: white
+        color: white;
     }
 
     .cm-focused .cm-activeLine {
