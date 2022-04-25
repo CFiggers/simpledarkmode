@@ -47,6 +47,10 @@ a {
     color: #67ABE8;
 }
 
+.rm-page-ref--namespace {
+    color: #4aaf38;
+}
+
 .rm-highlight{
     color: black;
     background-color: #bea925
