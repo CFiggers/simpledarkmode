@@ -16,7 +16,8 @@ body {
     border-left-color: white 
 }
 
-.rm-bullet.rm-bullet--closed .rm-bullet__inner {
+.rm-bullet.rm-bullet--closed .rm-bullet__inner,
+.sidebar-content .rm-bullet.rm-bullet--closed .rm-bullet__inner {
     border: 4px solid #313b40;
 }
 
