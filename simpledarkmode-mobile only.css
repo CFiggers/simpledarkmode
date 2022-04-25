@@ -23,7 +23,8 @@
 
     .cm-content, .cm-gutter, 
     .rm-code-block__settings-bar,
-    .bp3-input {
+    .bp3-input,
+    .rm-autocomplete__results {
         background-color: #1F2123;
         color: white
     }
@@ -36,18 +37,22 @@
     .bp3-button-text,
     .roam-body .roam-app h1
     {
-        color: white
+        color: white;
     }
 
     .rm-page-ref--link,
     .rm-page__title,
-    a{
-        color: #67ABE8
+    a {
+        color: #67ABE8;
     }
 
     .rm-highlight{
         color: black;
         background-color: #bea925
+    }
+
+    .rm-highlight .rm-page-ref--link {
+        color: #0C82EC;
     }
 
     .rm-zoom.zoom-path-view .rm-zoom-mask {
