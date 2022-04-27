@@ -31,7 +31,8 @@ body {
 .rm-autocomplete__results,
 .rm-find-or-create__menu,
 .rm-zoom.zoom-path-view .rm-zoom-mask,
-.rm-block__self .rm-block__ref-count {
+.rm-block__self .rm-block__ref-count,
+.rm-inline-references {
     background-color: var(--dark-grey);
     color: white;
 }
