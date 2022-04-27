@@ -36,6 +36,10 @@ body {
     color: white;
 }
 
+.rm-block__self .rm-block__ref-count {
+    opacity: 1;
+}
+
 .cm-focused .cm-activeLine {
     background-color:  #51565B !important
 }
