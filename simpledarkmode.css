@@ -32,7 +32,8 @@ body {
 .rm-find-or-create__menu,
 .rm-zoom.zoom-path-view .rm-zoom-mask,
 .rm-block__self .rm-block__ref-count,
-.rm-inline-references {
+.rm-inline-references,
+.rm-block-ref:hover {
     background-color: var(--dark-grey);
     color: white;
 }
