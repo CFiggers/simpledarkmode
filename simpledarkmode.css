@@ -33,7 +33,8 @@ body {
 .rm-zoom.zoom-path-view .rm-zoom-mask,
 .rm-block__self .rm-block__ref-count,
 .rm-inline-references,
-.rm-block-ref:hover {
+.rm-block-ref:hover,
+.bp3-button.bp3-minimal {
     background-color: var(--dark-grey);
     color: white;
 }
