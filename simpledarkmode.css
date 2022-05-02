@@ -2,7 +2,9 @@
     --dark-grey: #2a2d30;
 }
 
-body {
+body,
+.kanban-column,
+.bp3-datepicker {
     background-color: #121212
 }
 
@@ -11,7 +13,9 @@ body {
 }
 
 .rm-reference-item,
-.rm-embed-container {
+.rm-embed-container,
+.kanban-card,
+.kanban-board{
     background-color: var(--dark-grey);
 }
 
