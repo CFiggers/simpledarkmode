@@ -75,3 +75,19 @@ a {
 .rm-highlight .rm-page-ref--link {
     color: #0C82EC;
 }
+
+ .ͼ4 .cm-line::selection {
+  background: rgba(255,255,255,0.11) !important;
+}
+
+.ͼ4 .cm-line ::selection {
+  background: rgba(255,255,255,0.11) !important;
+}
+
+.ͼi .cm-line::selection {
+  background: rgba(255,255,255,0.11) !important;
+}
+
+.ͼi .cm-line ::selection {
+  background: rgba(255,255,255,0.11) !important;
+}
